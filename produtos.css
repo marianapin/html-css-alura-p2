@@ -1,8 +1,26 @@
-produtos{
+.produtos{
   width 940p
   maring: 0 auto
   padding: 50px 0 
 }
-produto li {
+.produto li {
   display:inline-block;
- text-aling:
+  text-aling: center;
+  width: 30%;
+  vertical-aling; top;
+  maring: 0 1.5%
+  padding: 30px 20px
+  box-sizing: boder-box;
+}
+.produtos h2{
+  font-size:30px
+  font-weight: bold;
+}
+.desc{
+  font-size: 18px
+}
+.preço {
+  font-size: 22px
+  font-weigth:bold
+  margin-top: 10px;
+}
